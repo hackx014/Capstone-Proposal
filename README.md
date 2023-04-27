@@ -4,6 +4,7 @@ Use AWS Sagemaker to train a CNN model that can perform image classification by 
 
 ## Project Set Up and Installation
 Entered AWS Sagemaker through my own account since the gateway througout the course did not work for me. 
+For more indepth analysis of the model and process please see https://github.com/hackx014/Capstone-Proposal/blob/main/Capstone%20Project%20Report.pdf the project report. 
 
 ## Dataset
 The dataset is the Satellite Images of Hurricane Damage Kaggle dataset (https://www.kaggle.com/datasets/kmader/satellite-images-of-hurricane-damage)
